@@ -1,0 +1,24 @@
+# =======================================================
+# AI Interview Preparation Platform - Backend Dependencies
+# Fully compatible with Python 3.10, 3.11, 3.12, 3.13, 3.14+
+# =======================================================
+
+# Web Framework & API
+Flask>=3.0.0
+Flask-Cors>=4.0.0
+Flask-SQLAlchemy>=3.1.0
+Flask-Bcrypt>=1.0.0
+PyJWT>=2.8.0
+
+# Database & Environment
+PyMySQL>=1.1.0
+cryptography>=42.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Google GenAI SDK (Official Google GenAI Python SDK)
+google-genai>=0.7.0
+
+# NLP & Data Evaluation
+numpy>=2.0.0
+scikit-learn>=1.5.0
